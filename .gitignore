@@ -1,0 +1,19 @@
+.env
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Log files
+*.log
+server.log
+
+# Test files
+test_*.py
+test_*.json
+check_config.py
+testerfile.py
